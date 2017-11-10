@@ -5,7 +5,7 @@
 
 'Firesinging' is the open source game server for Age of Empires Online. Currently it is under development. 
 
-This repository aims to re-create Xlive functions based on XLiveless done by Stanislav "listener" Golovin and donated to the general community.  
+This repository aims to re-create Xlive functions based on XLiveless done by Stanislav "listener" Golovin and donated to the general community.  Xlive Less was after updated by @Luciano @kisonik @Ryddag to make it work with Age Of Empires Online and bring back all missing netowrking function. (Orginal source code: https://github.com/luciano7/aoeo/tree/master/xliveless)
 
 ### Download
 
